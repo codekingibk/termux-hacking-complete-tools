@@ -203,6 +203,7 @@ We welcome contributions! Please feel free to submit:
 - **GitHub**: [https://github.com/codekingibk](https://github.com/codekingibk)
 - **WhatsApp Community**: [Join our channel](https://whatsapp.com/channel/0029Vb2sluZ4CrfcaOA7xB0I)
 - **Issues**: [GitHub Issues](https://github.com/codekingibk/termux-hacking-complete-tools/issues)
+- **WhatsApp Contact**: [message me on WhatsApp](https://wa.me/2347019706826?text=Hello%20Edward!)
 
 ## 📈 Statistics
 
@@ -214,10 +215,7 @@ We welcome contributions! Please feel free to submit:
 
 ## 🏆 Version History
 
-- **v4.0 Ultimate** - Complete rewrite with 200+ tools, advanced launcher, system monitoring
-- **v3.x** - Enhanced installation system and error handling
-- **v2.x** - Added tool categories and batch installation
-- **v1.x** - Initial release with basic tool collection
+- **v1.x** - Initial release with ultimate tool collection
 
 ## 📝 License
 

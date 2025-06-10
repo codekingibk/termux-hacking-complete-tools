@@ -6,7 +6,7 @@
 # =============================================================================
 # Author: Edward Solos Ultimate Version
 # GitHub: https://github.com/codekingibk/termux-hacking-complete-tools
-# Version: 4.0 Ultimate Complete
+# Version: 1.0 Ultimate Complete
 # =============================================================================
 
 # Color definitions
@@ -69,9 +69,10 @@ EOF
     echo -e "${CYAN}${BOLD}═══════════════════════════════════════════════════════════════${RESET}"
     echo -e "${WHITE}${BOLD}          Ultimate Security Testing Framework - 200+ Tools${RESET}"
     echo -e "${CYAN}${BOLD}═══════════════════════════════════════════════════════════════${RESET}"
-    echo -e "${YELLOW}Version: 4.0 Ultimate | Author: Edward Solos${RESET}"
+    echo -e "${YELLOW}Version: 1.0 Ultimate | Author: Edward Solos${RESET}"
     echo -e "${BLUE}GitHub: https://github.com/codekingibk/termux-hacking-complete-tools${RESET}"
-    echo -e "${GREEN}WhatsApp: https://whatsapp.com/channel/0029Vb2sluZ4CrfcaOA7xB0I${RESET}"
+    echo -e "${GREEN}WhatsApp contact:+2347019706826${RESET}"
+    echo -e "${GREEN}WhatsApp channel: https://whatsapp.com/channel/0029Vb2sluZ4CrfcaOA7xB0I${RESET}"
     echo
 }
 

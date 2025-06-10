@@ -4,7 +4,7 @@
 # TERMUX HACKING TOOLS INSTALLER - ULTIMATE COMPLETE VERSION
 # Enhanced Security Testing Framework for Termux with 200+ Tools
 # =============================================================================
-# Author: Edward Solos Ultimate Version
+# Author: Edward 
 # GitHub: https://github.com/codekingibk/termux-hacking-complete-tools
 # Version: 1.0 Ultimate Complete
 # =============================================================================
@@ -69,7 +69,7 @@ EOF
     echo -e "${CYAN}${BOLD}═══════════════════════════════════════════════════════════════${RESET}"
     echo -e "${WHITE}${BOLD}          Ultimate Security Testing Framework - 200+ Tools${RESET}"
     echo -e "${CYAN}${BOLD}═══════════════════════════════════════════════════════════════${RESET}"
-    echo -e "${YELLOW}Version: 1.0 Ultimate | Author: Edward Solos${RESET}"
+    echo -e "${YELLOW}Version: 1.0 Ultimate | Author: EDWARD${RESET}"
     echo -e "${BLUE}GitHub: https://github.com/codekingibk/termux-hacking-complete-tools${RESET}"
     echo -e "${GREEN}WhatsApp contact:+2347019706826${RESET}"
     echo -e "${GREEN}WhatsApp channel: https://whatsapp.com/channel/0029Vb2sluZ4CrfcaOA7xB0I${RESET}"
